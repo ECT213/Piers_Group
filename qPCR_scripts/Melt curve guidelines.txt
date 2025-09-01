@@ -1,0 +1,5 @@
+File naming: date_Melt_curve_initials
+
+Sheet column titles: Well	Position	Reading	Temperature	Fluorescence	Derivative	Sample	Target	Date                                                                         
+
+
